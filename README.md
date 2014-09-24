@@ -1,2 +1,2 @@
 =================
-~grocery-list-repo~
+grocery-list-repo
