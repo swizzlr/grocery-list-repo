@@ -1,3 +1,2 @@
-~=================~
 ~grocery-list-repo~
 Stuff
